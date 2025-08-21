@@ -106,7 +106,7 @@ Here's a brief overview of what each command in the Dockerfile does:
     apt-get install -y vim screenfetch
     ```
 
-### Troubleshooting
+### Troubleshooting Steps
 
 - **Docker Build Errors**:
   - Ensure there are no syntax errors in the Dockerfile, especially around command chaining (`&& \`).
